@@ -1,0 +1,16 @@
+{
+  "name": "bases-node",
+  "version": "2.0.0",
+  "description": "",
+  "main": "\u001b\u001b\u001b",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jhonathan",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "save-dev": "^0.0.1-security",
+    "yargs": "^17.7.2"
+  }
+}
